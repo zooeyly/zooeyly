@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Programming
 - 🌱 I’m currently learning Full Stack Programming
 - 💞️ I’m looking to collaborate on ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
-- 📫 How to reach me: anac93137@gmail.com
+- 📫 How to reach me: anaclaudiabritosilva1@gmail.com
 
 <!---
 zooeyly/zooeyly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
